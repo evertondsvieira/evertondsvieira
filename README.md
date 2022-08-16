@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React, TypeScript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React and TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
