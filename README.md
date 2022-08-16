@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Everton</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A frontend developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
 
 
