@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Everton</h1>
 <h3 align="center">Front-end Developer and Back-end Student from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif" height="250">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertondsvieira&label=Profile%20views&color=0e75b6&style=flat" alt="evertondsvieira"/> </p>
 
@@ -51,6 +50,7 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+ <img align="right" alt="Coding" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif" height="250">
 </p>
 
  
