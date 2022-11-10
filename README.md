@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about ** Tech, japanese culture, anime.**
+- 💬 Ask me about **Tech, japanese culture, anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
