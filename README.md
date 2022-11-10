@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer and Back-end Student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertondsvieira&label=Profile%20views&color=0e75b6&style=flat" alt="evertondsvieira" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertondsvieira&label=Profile%20views&color=0e75b6&style=flat" alt="evertondsvieira" height="398"/>/> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -12,9 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/evertondsvieira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evertondsvieira" height="30" width="40" /></a>
 </p>
-<br></br>
-<br></br>
-<br></br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
