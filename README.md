@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Everton</h1>
 <h3 align="center">Front-end Developer and Back-end Student from Brazil</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evertondsvieira&label=Profile%20views&color=0e75b6&style=flat" alt="evertondsvieira" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
