@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Everton</h1>
 <h3 align="center">Front-end Developer and Back-end Student from Brazil</h3>
-<center><img alt="Coding" width="400px" height="320px" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif"></center>
+<img align="left" alt="Coding" width="400px" height="320px" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertondsvieira&label=Profile%20views&color=0e75b6&style=flat" alt="evertondsvieira"/> </p>
 
