@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Everton</h1>
 <h3 align="center">Front-end Developer and Back-end Student from Brazil</h3>
-<img align="center" alt="Coding" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
+<img align="center" alt="Coding" width="400px" height="320px" src="https://c.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evertondsvieira&label=Profile%20views&color=0e75b6&style=flat" alt="evertondsvieira"/> </p>
 
@@ -49,5 +49,4 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertondsvieira&show_icons=true&locale=en&layout=compact" alt="evertondsvieira" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evertondsvieira&show_icons=true&locale=en&layout=compact" alt="evertondsvieira" /></p>
